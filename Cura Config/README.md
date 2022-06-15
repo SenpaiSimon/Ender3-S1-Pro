@@ -93,6 +93,8 @@ Currently there are two profiles added for this printer.
  - "PLA Flex Default" - which prints faster and is enough for nearly all prints
  - "PLA Flex Quality" - which prints a lot finer und slower, for a lot more details
 
+> **NOTE:** These two settings work, as the name already suggests, only for PLA Filement ⚠️
+
 Afterwards you can press "Slice" 🪚 in the bottom right and wait for it to be done.
 
 ![slice1](doc_pics/slice1.png)  
